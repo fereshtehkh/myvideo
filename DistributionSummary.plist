@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>myvideo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>8800E0DBC1E75A0B2907FB98EDBCCCBDE3985236</string>
+				<key>dateExpires</key>
+				<string>4/7/26</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7A35JW3PMD.fk.myvideo</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7A35JW3PMD</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>myvideo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>af2813e3-346f-48d2-8ad3-53e93c825d60</string>
+				<key>dateExpires</key>
+				<string>4/7/26</string>
+				<key>name</key>
+				<string>myvideo appstore</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7A35JW3PMD</string>
+				<key>name</key>
+				<string>Fereshteh khorzani</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.2.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,218 @@
+2025-04-12 03:30:33 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fa383cda1b0; archive(resolved)="<IDEArchive: 0x7fa380510420>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fa383cda1b0; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7fa3853a42a0; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa383e775f0; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa383e8bf60; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa383b6cc90; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa383db9e50; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa383de4280; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa3805f1ba0; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa37f70b7e0; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa39c4d7fc0; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa39c456d40; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa39785ec00; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa383cdb520; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa393cad480; teamID='7A35JW3PMD', teamName='Fereshteh khorzani', teamType='Individual', username='fereshteh94@yahoo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa38317aa10; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="(null)">
+	<IDEDistributionContext: 0x7fa383dcad90; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa39be2bbd0>", team="(null)">
+	<IDEDistributionContext: 0x7fa383d64cc0; archive = "<IDEArchive: 0x7fa380510420>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7fa383cda1b0>
+2025-04-12 03:30:33 +0000  Processing step: IDEDistributionCreateDestRootStep
+2025-04-12 03:30:33 +0000  Processing step: IDEDistributionCopyItemStep
+2025-04-12 03:30:33 +0000  Running /usr/bin/ditto '-V' '/Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/Products/Applications/myvideo.app' '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app'
+2025-04-12 03:30:33 +0000  >>> Copying /Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/Products/Applications/myvideo.app 
+2025-04-12 03:30:33 +0000  copying file ./_CodeSignature/CodeResources ... 
+2025-04-12 03:30:33 +0000  6951 bytes for ./_CodeSignature/CodeResources
+2025-04-12 03:30:33 +0000  copying file ./Gamma_youtube5.jpg ... 
+2025-04-12 03:30:33 +0000  26748 bytes for ./Gamma_youtube5.jpg
+2025-04-12 03:30:33 +0000  copying file ./thorn.jpg ... 
+2025-04-12 03:30:34 +0000  12176 bytes for ./thorn.jpg
+2025-04-12 03:30:34 +0000  copying file ./python.jpg ... 
+2025-04-12 03:30:34 +0000  8488 bytes for ./python.jpg
+2025-04-12 03:30:34 +0000  copying file ./usc1.jpg ... 
+2025-04-12 03:30:34 +0000  28193 bytes for ./usc1.jpg
+copying file ./pride.mp3 ... 
+2025-04-12 03:30:34 +0000  2003904 bytes for ./pride.mp3
+2025-04-12 03:30:34 +0000  copying file ./booktitle.png ... 
+2025-04-12 03:30:34 +0000  606767 bytes for ./booktitle.png
+copying file ./usc2.jpg ... 
+2025-04-12 03:30:34 +0000  32930 bytes for ./usc2.jpg
+copying file ./gone.jpg ... 
+2025-04-12 03:30:34 +0000  13582 bytes for ./gone.jpg
+2025-04-12 03:30:34 +0000  copying file ./AppIcon60x60@2x.png ... 
+2025-04-12 03:30:34 +0000  8644 bytes for ./AppIcon60x60@2x.png
+2025-04-12 03:30:34 +0000  copying file ./ana.jpg ... 
+2025-04-12 03:30:34 +0000  10048 bytes for ./ana.jpg
+2025-04-12 03:30:34 +0000  copying file ./sound.jpg ... 
+2025-04-12 03:30:34 +0000  9886 bytes for ./sound.jpg
+2025-04-12 03:30:34 +0000  copying file ./upload_youtube3.jpg ... 
+2025-04-12 03:30:34 +0000  27937 bytes for ./upload_youtube3.jpg
+2025-04-12 03:30:34 +0000  copying file ./myvideo ... 
+2025-04-12 03:30:34 +0000  676288 bytes for ./myvideo
+copying file ./Assets.car ... 
+2025-04-12 03:30:34 +0000  436944 bytes for ./Assets.car
+copying file ./AppIcon76x76@2x~ipad.png ... 
+2025-04-12 03:30:34 +0000  11436 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./sound.mp3 ... 
+2025-04-12 03:30:34 +0000  966912 bytes for ./sound.mp3
+copying file ./ana.mp3 ... 
+2025-04-12 03:30:34 +0000  786816 bytes for ./ana.mp3
+copying file ./netcore_youtube1.jpg ... 
+2025-04-12 03:30:34 +0000  29639 bytes for ./netcore_youtube1.jpg
+copying file ./chatgpt_youtube4.jpg ... 
+21972 bytes for ./chatgpt_youtube4.jpg
+copying file ./thorn.mp3 ... 
+2025-04-12 03:30:34 +0000  1694592 bytes for ./thorn.mp3
+copying file ./embedded.mobileprovision ... 
+2025-04-12 03:30:34 +0000  14322 bytes for ./embedded.mobileprovision
+copying file ./pride.jpg ... 
+2025-04-12 03:30:34 +0000  11804 bytes for ./pride.jpg
+copying file ./gone.mp3 ... 
+2025-04-12 03:30:34 +0000  787584 bytes for ./gone.mp3
+copying file ./Info.plist ... 
+2025-04-12 03:30:34 +0000  1358 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+copying file ./pdfmp_youtube2.jpg ... 
+2025-04-12 03:30:34 +0000  19771 bytes for ./pdfmp_youtube2.jpg
+copying file ./python.mp3 ... 
+2025-04-12 03:30:34 +0000  806400 bytes for ./python.mp3
+2025-04-12 03:30:34 +0000  /usr/bin/ditto exited with 0
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionEmbedProfileStep
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionInfoPlistStep
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionItemRemovalStep
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2025-04-12 03:30:34 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2025-04-12 03:30:34 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2025-04-12 03:30:34 +0000  Running /Users/fereshtehkhorzani/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app/myvideo' '-l' '-keep_cs' '-o' '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app/myvideo'
+2025-04-12 03:30:34 +0000  /Users/fereshtehkhorzani/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2025-04-12 03:30:34 +0000  Running /usr/bin/ditto '-V' '/Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/BCSymbolMaps/2965CCF9-C6C0-3C9A-AE01-CF9460B336E9.bcsymbolmap' '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/BCSymbolMaps/2965CCF9-C6C0-3C9A-AE01-CF9460B336E9.bcsymbolmap'
+2025-04-12 03:30:34 +0000  >>> Copying /Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/BCSymbolMaps/2965CCF9-C6C0-3C9A-AE01-CF9460B336E9.bcsymbolmap 
+2025-04-12 03:30:34 +0000  copying file ./2965CCF9-C6C0-3C9A-AE01-CF9460B336E9.bcsymbolmap ... 
+2025-04-12 03:30:34 +0000  193266 bytes for ./2965CCF9-C6C0-3C9A-AE01-CF9460B336E9.bcsymbolmap
+2025-04-12 03:30:34 +0000  /usr/bin/ditto exited with 0
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionSymbolsStep
+2025-04-12 03:30:34 +0000  Excluding symbols for myvideo.app
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionAppThinningStep
+2025-04-12 03:30:34 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionArchThinningStep
+2025-04-12 03:30:34 +0000  Running /Users/fereshtehkhorzani/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app/myvideo' '-verify_arch' 'arm64e'
+2025-04-12 03:30:34 +0000  /Users/fereshtehkhorzani/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-04-12 03:30:34 +0000  Skipping architecture thinning for item "myvideo" because arch "arm64e" wasn't found
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionODRStep
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionStripXattrsStep
+2025-04-12 03:30:34 +0000  Running /usr/bin/xattr '-crs' '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app'
+2025-04-12 03:30:34 +0000  /usr/bin/xattr exited with 0
+2025-04-12 03:30:34 +0000  Processing step: IDEDistributionCodesignStep
+2025-04-12 03:30:34 +0000  Entitlements for <IDEDistributionItem: 0x7fa380522930; bundleID='fk.myvideo', path='<DVTFilePath:0x7fa385554420:'/Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/Products/Applications/myvideo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa3977d6ec0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa3856c6be0; name='Apple Development: Fereshteh khorzani (B2W54ZU3A4)', hash='E817A0144B70EE922CE0567A25F9AD70B3E2AC7F', serialNumber='52DF9C55A9D29F121A101965C8E4112E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-04-08 04:12:50 +0000''>', entitlements='{
+    "application-identifier" = "7A35JW3PMD.fk.myvideo";
+    "com.apple.developer.team-identifier" = 7A35JW3PMD;
+    "get-task-allow" = 1;
+}', teamID='7A35JW3PMD', identifier='fk.myvideo', executablePath='<DVTFilePath:0x7fa383b1c740:'/Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/Products/Applications/myvideo.app/myvideo'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "7A35JW3PMD.fk.myvideo";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 7A35JW3PMD;
+    "get-task-allow" = 0;
+}
+2025-04-12 03:30:34 +0000  Entitlements for <IDEDistributionItem: 0x7fa380522930; bundleID='fk.myvideo', path='<DVTFilePath:0x7fa385554420:'/Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/Products/Applications/myvideo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa3977d6ec0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa3857ab4d0; name='Apple Development: Fereshteh khorzani (B2W54ZU3A4)', hash='E817A0144B70EE922CE0567A25F9AD70B3E2AC7F', serialNumber='52DF9C55A9D29F121A101965C8E4112E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-04-08 04:12:50 +0000''>', entitlements='{
+    "application-identifier" = "7A35JW3PMD.fk.myvideo";
+    "com.apple.developer.team-identifier" = 7A35JW3PMD;
+    "get-task-allow" = 1;
+}', teamID='7A35JW3PMD', identifier='fk.myvideo', executablePath='<DVTFilePath:0x7fa383b1c740:'/Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/Products/Applications/myvideo.app/myvideo'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "7A35JW3PMD.fk.myvideo";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 7A35JW3PMD;
+    "get-task-allow" = 0;
+}
+2025-04-12 03:30:34 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa380522930; bundleID='fk.myvideo', path='<DVTFilePath:0x7fa385554420:'/Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/Products/Applications/myvideo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa3977d6ec0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa38574a0e0; name='Apple Development: Fereshteh khorzani (B2W54ZU3A4)', hash='E817A0144B70EE922CE0567A25F9AD70B3E2AC7F', serialNumber='52DF9C55A9D29F121A101965C8E4112E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-04-08 04:12:50 +0000''>', entitlements='{
+    "application-identifier" = "7A35JW3PMD.fk.myvideo";
+    "com.apple.developer.team-identifier" = 7A35JW3PMD;
+    "get-task-allow" = 1;
+}', teamID='7A35JW3PMD', identifier='fk.myvideo', executablePath='<DVTFilePath:0x7fa383b1c740:'/Users/fereshtehkhorzani/Library/Developer/Xcode/Archives/2025-04-11/myvideo 4-11-25, 7.45 PM.xcarchive/Products/Applications/myvideo.app/myvideo'>', hardenedRuntime='0'>'> to: /var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/entitlements~~~7Ls97D
+2025-04-12 03:30:34 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8800E0DBC1E75A0B2907FB98EDBCCCBDE3985236' '--entitlements' '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/entitlements~~~7Ls97D' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app'
+2025-04-12 03:30:34 +0000  /var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app: replacing existing signature
+2025-04-12 03:30:41 +0000  /var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app: signed app bundle with Mach-O thin (arm64) [fk.myvideo]
+2025-04-12 03:30:41 +0000  /usr/bin/codesign exited with 0
+2025-04-12 03:30:41 +0000  Processing step: IDEDistributionZipODRItemStep
+2025-04-12 03:30:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-04-12 03:30:41 +0000  Processing step: IDEDistributionCreateIPAStep
+2025-04-12 03:30:41 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root' '/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Packages/myvideo.ipa'
+2025-04-12 03:30:41 +0000  >>> Copying /var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root 
+2025-04-12 03:30:41 +0000  copying file ./BCSymbolMaps/2965CCF9-C6C0-3C9A-AE01-CF9460B336E9.bcsymbolmap ... 
+2025-04-12 03:30:41 +0000  193266 bytes for ./BCSymbolMaps/2965CCF9-C6C0-3C9A-AE01-CF9460B336E9.bcsymbolmap
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/_CodeSignature/CodeResources ... 
+2025-04-12 03:30:41 +0000  6951 bytes for ./Payload/myvideo.app/_CodeSignature/CodeResources
+copying file ./Payload/myvideo.app/Gamma_youtube5.jpg ... 
+2025-04-12 03:30:41 +0000  26748 bytes for ./Payload/myvideo.app/Gamma_youtube5.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/thorn.jpg ... 
+2025-04-12 03:30:41 +0000  12176 bytes for ./Payload/myvideo.app/thorn.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/python.jpg ... 
+2025-04-12 03:30:41 +0000  8488 bytes for ./Payload/myvideo.app/python.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/usc1.jpg ... 
+2025-04-12 03:30:41 +0000  28193 bytes for ./Payload/myvideo.app/usc1.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/pride.mp3 ... 
+2025-04-12 03:30:41 +0000  2003904 bytes for ./Payload/myvideo.app/pride.mp3
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/booktitle.png ... 
+2025-04-12 03:30:41 +0000  606767 bytes for ./Payload/myvideo.app/booktitle.png
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/usc2.jpg ... 
+2025-04-12 03:30:41 +0000  32930 bytes for ./Payload/myvideo.app/usc2.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/gone.jpg ... 
+2025-04-12 03:30:41 +0000  13582 bytes for ./Payload/myvideo.app/gone.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/AppIcon60x60@2x.png ... 
+2025-04-12 03:30:41 +0000  8644 bytes for ./Payload/myvideo.app/AppIcon60x60@2x.png
+copying file ./Payload/myvideo.app/ana.jpg ... 
+2025-04-12 03:30:41 +0000  10048 bytes for ./Payload/myvideo.app/ana.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/sound.jpg ... 
+2025-04-12 03:30:41 +0000  9886 bytes for ./Payload/myvideo.app/sound.jpg
+copying file ./Payload/myvideo.app/upload_youtube3.jpg ... 
+2025-04-12 03:30:41 +0000  27937 bytes for ./Payload/myvideo.app/upload_youtube3.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/myvideo ... 
+2025-04-12 03:30:41 +0000  553968 bytes for ./Payload/myvideo.app/myvideo
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/Assets.car ... 
+2025-04-12 03:30:41 +0000  436944 bytes for ./Payload/myvideo.app/Assets.car
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/AppIcon76x76@2x~ipad.png ... 
+2025-04-12 03:30:41 +0000  11436 bytes for ./Payload/myvideo.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/myvideo.app/sound.mp3 ... 
+2025-04-12 03:30:41 +0000  966912 bytes for ./Payload/myvideo.app/sound.mp3
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/ana.mp3 ... 
+2025-04-12 03:30:41 +0000  786816 bytes for ./Payload/myvideo.app/ana.mp3
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/netcore_youtube1.jpg ... 
+2025-04-12 03:30:41 +0000  29639 bytes for ./Payload/myvideo.app/netcore_youtube1.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/chatgpt_youtube4.jpg ... 
+2025-04-12 03:30:41 +0000  21972 bytes for ./Payload/myvideo.app/chatgpt_youtube4.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/thorn.mp3 ... 
+2025-04-12 03:30:41 +0000  1694592 bytes for ./Payload/myvideo.app/thorn.mp3
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/embedded.mobileprovision ... 
+2025-04-12 03:30:41 +0000  12093 bytes for ./Payload/myvideo.app/embedded.mobileprovision
+copying file ./Payload/myvideo.app/pride.jpg ... 
+2025-04-12 03:30:41 +0000  11804 bytes for ./Payload/myvideo.app/pride.jpg
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/gone.mp3 ... 
+2025-04-12 03:30:41 +0000  787584 bytes for ./Payload/myvideo.app/gone.mp3
+2025-04-12 03:30:41 +0000  copying file ./Payload/myvideo.app/Info.plist ... 
+1358 bytes for ./Payload/myvideo.app/Info.plist
+copying file ./Payload/myvideo.app/PkgInfo ... 
+2025-04-12 03:30:41 +0000  8 bytes for ./Payload/myvideo.app/PkgInfo
+copying file ./Payload/myvideo.app/pdfmp_youtube2.jpg ... 
+2025-04-12 03:30:41 +0000  19771 bytes for ./Payload/myvideo.app/pdfmp_youtube2.jpg
+copying file ./Payload/myvideo.app/python.mp3 ... 
+2025-04-12 03:30:41 +0000  806400 bytes for ./Payload/myvideo.app/python.mp3
+2025-04-12 03:30:41 +0000  /usr/bin/ditto exited with 0
+2025-04-12 03:30:41 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2025-04-12 03:30:41 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2025-04-12 03:30:41 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2025-04-12 03:30:41 +0000  IDEDistributionItem init <DVTFilePath:0x7fa38568b520:'/var/folders/wp/xvl8155n6_s0xbhkzj9y92f80000gn/T/XcodeDistPipeline.~~~4vKwJy/Root/Payload/myvideo.app'>
+2025-04-12 03:30:41 +0000  Processing step: IDEDistributionCreateManifestStep
+2025-04-12 03:30:41 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
